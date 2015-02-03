@@ -1,0 +1,12 @@
+01-24 19:46:09 jdbc[11]: exception
+org.h2.jdbc.JdbcSQLException: Table "COMMENT" not found; SQL statement:
+alter table comment drop constraint FK38A5EE5FAE312DD6 [42102-173]
+01-24 19:46:09 jdbc[11]: exception
+org.h2.jdbc.JdbcSQLException: Table "POST" not found; SQL statement:
+alter table post drop constraint FK3498A0BCBFD9F6 [42102-173]
+01-24 19:46:09 jdbc[11]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER_ROLE" not found; SQL statement:
+alter table user_role drop constraint FK143BF46A17951616 [42102-173]
+01-24 19:46:09 jdbc[11]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER_ROLE" not found; SQL statement:
+alter table user_role drop constraint FK143BF46ABCBFD9F6 [42102-173]
